@@ -1,0 +1,8 @@
+{
+  "name": "open-source-watchtower",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/watchtower.mjs"
+  }
+}
