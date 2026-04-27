@@ -5,16 +5,19 @@ A lightweight daily dashboard for monitoring the health of my public repositorie
 ## Daily report
 
 <!-- REPORT:START -->
-Updated: 2026-04-26T03:55:36.927Z
+Updated: 2026-04-27T04:00:01.969Z
 
-Public repositories: 11
+Public repositories: 14
 
 | Repository | Stars | Open issues | Default branch | Updated | Status |
 |---|---:|---:|---|---|---|
-| [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-04-26 | Active |
-| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-04-26 | Active |
-| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 0 | 0 | main | 2026-04-25 | Active |
-| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-04-25 | Active |
+| [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-04-27 | Active |
+| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-04-27 | Active |
+| [foodpal](https://github.com/Gliangquan/foodpal) | 1 | 0 | main | 2026-04-26 | Active |
+| [medpal](https://github.com/Gliangquan/medpal) | 1 | 0 | main | 2026-04-26 | Active |
+| [unifit](https://github.com/Gliangquan/unifit) | 0 | 0 | main | 2026-04-26 | Active |
+| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 0 | 0 | main | 2026-04-26 | Active |
+| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-04-26 | Active |
 | [pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) | 26 | 0 | main | 2026-04-24 | Active |
 | [ecuflash-pi-build](https://github.com/Gliangquan/ecuflash-pi-build) | 0 | 0 | main | 2026-04-16 | Active |
 | [pi-web-overlay](https://github.com/Gliangquan/pi-web-overlay) | 0 | 0 | main | 2026-04-10 | Active |
