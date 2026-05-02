@@ -5,21 +5,21 @@ A lightweight daily dashboard for monitoring the health of my public repositorie
 ## Daily report
 
 <!-- REPORT:START -->
-Updated: 2026-05-01T04:17:35.467Z
+Updated: 2026-05-02T03:51:02.422Z
 
 Public repositories: 15
 
 | Repository | Stars | Open issues | Default branch | Updated | Status |
 |---|---:|---:|---|---|---|
-| [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-05-01 | Active |
-| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-05-01 | Active |
-| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 0 | 0 | main | 2026-04-30 | Active |
-| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-04-30 | Active |
+| [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-05-02 | Active |
+| [pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) | 27 | 0 | main | 2026-05-02 | Active |
+| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-05-02 | Active |
+| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 0 | 0 | main | 2026-05-01 | Active |
+| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-05-01 | Active |
 | [foodpal](https://github.com/Gliangquan/foodpal) | 1 | 0 | main | 2026-04-28 | Active |
 | [FitPal](https://github.com/Gliangquan/FitPal) | 0 | 0 | main | 2026-04-28 | Active |
 | [unifit](https://github.com/Gliangquan/unifit) | 0 | 0 | main | 2026-04-27 | Active |
 | [medpal](https://github.com/Gliangquan/medpal) | 1 | 0 | main | 2026-04-27 | Active |
-| [pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) | 26 | 0 | main | 2026-04-24 | Active |
 | [ecuflash-pi-build](https://github.com/Gliangquan/ecuflash-pi-build) | 0 | 0 | main | 2026-04-16 | Active |
 | [pi-web-overlay](https://github.com/Gliangquan/pi-web-overlay) | 0 | 0 | main | 2026-04-10 | Active |
 | [doc-format-engine](https://github.com/Gliangquan/doc-format-engine) | 0 | 0 | main | 2026-03-20 | Active |
