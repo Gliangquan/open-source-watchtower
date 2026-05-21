@@ -5,18 +5,18 @@ A lightweight daily dashboard for monitoring the health of my public repositorie
 ## Daily report
 
 <!-- REPORT:START -->
-Updated: 2026-05-20T04:36:20.266Z
+Updated: 2026-05-21T04:44:03.887Z
 
 Public repositories: 15
 
 | Repository | Stars | Open issues | Default branch | Updated | Status |
 |---|---:|---:|---|---|---|
-| [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-05-20 | Active |
-| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-05-20 | Active |
-| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 0 | 0 | main | 2026-05-19 | Active |
-| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-05-19 | Active |
+| [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-05-21 | Active |
+| [pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) | 28 | 0 | main | 2026-05-21 | Active |
+| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-05-21 | Active |
+| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 0 | 0 | main | 2026-05-20 | Active |
+| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-05-20 | Active |
 | [FitPal](https://github.com/Gliangquan/FitPal) | 0 | 0 | main | 2026-05-06 | Active |
-| [pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) | 27 | 0 | main | 2026-05-02 | Active |
 | [foodpal](https://github.com/Gliangquan/foodpal) | 1 | 0 | main | 2026-04-28 | Active |
 | [unifit](https://github.com/Gliangquan/unifit) | 0 | 0 | main | 2026-04-27 | Active |
 | [medpal](https://github.com/Gliangquan/medpal) | 1 | 0 | main | 2026-04-27 | Active |
