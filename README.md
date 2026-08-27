@@ -5,16 +5,16 @@ A lightweight daily dashboard for monitoring the health of my public repositorie
 ## Daily report
 
 <!-- REPORT:START -->
-Updated: 2026-08-26T01:58:19.643Z
+Updated: 2026-08-27T09:49:17.117Z
 
 Public repositories: 17
 
 | Repository | Stars | Open issues | Default branch | Updated | Status |
 |---|---:|---:|---|---|---|
+| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-08-27 | Active |
+| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 0 | 0 | main | 2026-08-26 | Active |
+| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-08-26 | Active |
 | [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-08-26 | Active |
-| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-08-26 | Active |
-| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 0 | 0 | main | 2026-08-25 | Active |
-| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-08-25 | Active |
 | [pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) | 31 | 0 | main | 2026-08-24 | Active |
 | [skeleton-appearance-id](https://github.com/Gliangquan/skeleton-appearance-id) | 0 | 0 | main | 2026-08-10 | Active |
 | [ss-code](https://github.com/Gliangquan/ss-code) | 0 | 0 | main | 2026-08-06 | Active |
