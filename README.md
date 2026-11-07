@@ -5,16 +5,16 @@ A lightweight daily dashboard for monitoring the health of my public repositorie
 ## Daily report
 
 <!-- REPORT:START -->
-Updated: 2026-11-06T06:46:42.111Z
+Updated: 2026-11-07T05:58:23.872Z
 
 Public repositories: 18
 
 | Repository | Stars | Open issues | Default branch | Updated | Status |
 |---|---:|---:|---|---|---|
-| [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-11-06 | Active |
-| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-11-06 | Active |
-| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 1 | 0 | main | 2026-11-05 | Active |
-| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-11-05 | Active |
+| [Gliangquan](https://github.com/Gliangquan/Gliangquan) | 0 | 0 | main | 2026-11-07 | Active |
+| [github-daily-radar](https://github.com/Gliangquan/github-daily-radar) | 0 | 1 | main | 2026-11-07 | Active |
+| [awesome-ai-radar](https://github.com/Gliangquan/awesome-ai-radar) | 1 | 0 | main | 2026-11-06 | Active |
+| [open-source-watchtower](https://github.com/Gliangquan/open-source-watchtower) | 0 | 0 | main | 2026-11-06 | Active |
 | [ecuflash-pi-build](https://github.com/Gliangquan/ecuflash-pi-build) | 1 | 0 | main | 2026-10-23 | Active |
 | [pi-ui-bridge](https://github.com/Gliangquan/pi-ui-bridge) | 31 | 0 | main | 2026-10-21 | Active |
 | [localsend-social](https://github.com/Gliangquan/localsend-social) | 0 | 0 | main | 2026-09-26 | Active |
